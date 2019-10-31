@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Welcome": ["documentation-intro"],
+    "Manual": ["Manual"],
+    "Getting Started": ["getting-started"],
+    "Feature 1": ["feature-1"],
+    "Feature 2": ["feature-2"],
+    "Support": ["troubleshooting"]
+  }
+}

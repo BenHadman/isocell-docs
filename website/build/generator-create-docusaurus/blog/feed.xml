@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Customer Portal Blog</title>
+        <link>https://generator-create-docusaurus.netlify.com/blog</link>
+        <description>The best place to stay up-to-date with the latest Customer Portal news and events.</description>
+        <lastBuildDate>Mon, 28 Oct 2019 06:00:00 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>Customer Portal Blog</title>
+            <url>https://generator-create-docusaurus.netlify.com/img/logo.png</url>
+            <link>https://generator-create-docusaurus.netlify.com/blog</link>
+        </image>
+        <copyright>Copyright © 2019 iotaSciences.</copyright>
+        <item>
+            <title><![CDATA[Setting up the isoCell]]></title>
+            <link>https://generator-create-docusaurus.netlify.com/blog/2019/10/28/setting-up-the-isoCell.html</link>
+            <guid>https://generator-create-docusaurus.netlify.com/blog/2019/10/28/setting-up-the-isoCell.html</guid>
+            <pubDate>Mon, 28 Oct 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Lorem Ipsum...</p> ]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Diagnosing Problems with Jetting Needles]]></title>
+            <link>https://generator-create-docusaurus.netlify.com/blog/2019/10/28/diagnosing-problems-with-jetting-needles.html</link>
+            <guid>https://generator-create-docusaurus.netlify.com/blog/2019/10/28/diagnosing-problems-with-jetting-needles.html</guid>
+            <pubDate>Mon, 28 Oct 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Lorem Ipsum...</p> ]]></description>
+        </item>
+    </channel>
+</rss>

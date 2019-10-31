@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://generator-create-docusaurus.netlify.com/blog</id>
+    <title>Customer Portal Blog</title>
+    <updated>2019-10-28T06:00:00Z</updated>
+    <generator>Feed for Node.js</generator>
+    <link rel="alternate" href="https://generator-create-docusaurus.netlify.com/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Customer Portal news and events.</subtitle>
+    <logo>https://generator-create-docusaurus.netlify.com/img/logo.png</logo>
+    <rights>Copyright © 2019 iotaSciences.</rights>
+    <entry>
+        <title type="html"><![CDATA[Setting up the isoCell]]></title>
+        <id>https://generator-create-docusaurus.netlify.com/blog/2019/10/28/setting-up-the-isoCell.html</id>
+        <link href="https://generator-create-docusaurus.netlify.com/blog/2019/10/28/setting-up-the-isoCell.html">
+        </link>
+        <updated>2019-10-28T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem Ipsum...</p> ]]></summary>
+        <author>
+            <name>Ben Hadman</name>
+            <uri>http://twitter.com/benjehadman</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diagnosing Problems with Jetting Needles]]></title>
+        <id>https://generator-create-docusaurus.netlify.com/blog/2019/10/28/diagnosing-problems-with-jetting-needles.html</id>
+        <link href="https://generator-create-docusaurus.netlify.com/blog/2019/10/28/diagnosing-problems-with-jetting-needles.html">
+        </link>
+        <updated>2019-10-28T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>Lorem Ipsum...</p> ]]></summary>
+        <author>
+            <name>Ben Hadman</name>
+            <uri>http://twitter.com/benjehadman</uri>
+        </author>
+    </entry>
+</feed>

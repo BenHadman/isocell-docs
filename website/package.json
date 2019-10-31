@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "examples": "docusaurus-examples",
+    "start": "docusaurus-start",
+    "build": "docusaurus-build",
+    "publish-gh-pages": "docusaurus-publish",
+    "version": "docusaurus-version",
+    "rename-version": "docusaurus-rename-version"
+  },
+  "devDependencies": {
+    "docusaurus": "^1.14.0"
+  },
+  "dependencies": {
+    "@personare/react-freshdesk-widget": "^0.3.0"
+  }
+}
